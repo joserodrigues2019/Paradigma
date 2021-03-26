@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppArvore", "AppArvore.csproj", "{6998B491-26F7-430B-B57A-6CE1B473420A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6998B491-26F7-430B-B57A-6CE1B473420A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6998B491-26F7-430B-B57A-6CE1B473420A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6998B491-26F7-430B-B57A-6CE1B473420A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6998B491-26F7-430B-B57A-6CE1B473420A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63DDC5E-08E7-4B83-B045-FD442D7D2642}
+	EndGlobalSection
+EndGlobal
